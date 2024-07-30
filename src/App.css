@@ -1,0 +1,13 @@
+.bg {
+  /* background-image: linear-gradient(
+    to bottom,
+    #abc0c9,
+    #9dbdcb,
+    #8fb9cd,
+    #80b6cf,
+    #70b2d1
+  ); */
+  background-image: linear-gradient(to top, #70b2d1, #86bed9, #9bcbe2, #b0d7ea, #c4e4f3);
+  width: 100vw;
+  height: 100vh;
+}
